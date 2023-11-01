@@ -10,5 +10,5 @@ public class HelloController {
         return "hello#1";
     }
 
-    
+
 }
